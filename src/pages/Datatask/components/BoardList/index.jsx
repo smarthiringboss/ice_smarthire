@@ -17,7 +17,7 @@ export default function BoardList() {
   if (debug) {
     host = "localhost";
   } else {
-    host = "localhost"
+    host = "47.100.8.183"
   }
 
   // 控制report窗口可见
